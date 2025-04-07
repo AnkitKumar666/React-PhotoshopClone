@@ -1,4 +1,4 @@
-# 🖼️ Image Filter Editor (React)
+# 🖼️ PhotoShop Clone (React)
 
 This is a simple image filter editor built using **React**. It allows users to apply and adjust various CSS-based filters to an image in real time using sliders.
 
