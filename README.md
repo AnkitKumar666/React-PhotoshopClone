@@ -1,8 +1,39 @@
-# React + Vite
+# 🖼️ Image Filter Editor (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple image filter editor built using **React**. It allows users to apply and adjust various CSS-based filters to an image in real time using sliders.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Live filter preview
+- Adjustable controls for:
+  - Brightness
+  - Contrast
+  - Saturation
+  - Grayscale
+  - Sepia
+  - Hue Rotation
+  - Blur
+- Clean, minimal sidebar UI for selecting filters
+- Responsive slider for each filter property
+
+## 📸 Demo
+
+![](./public/image.png)
+
+## 🛠️ Technologies Used
+
+- React (Functional Components & Hooks)
+- CSS Filters
+- Vite (for fast development setup)
+
+
+## 🧑‍💻 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/AnkitKumar666/React-PhotoshopClone.git
+cd React-PhotoshopClone
+```
+
+
