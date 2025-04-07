@@ -36,4 +36,10 @@ git clone https://github.com/AnkitKumar666/React-PhotoshopClone.git
 cd React-PhotoshopClone
 ```
 
+2. **Install and Run Command**
+```bash
+npm install
+npm run dev
+```
+
 
