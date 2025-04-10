@@ -4,7 +4,7 @@ This is a simple image filter editor built using **React**. It allows users to a
 
 ## 🚀 Features
 
-- Live filter preview 
+- Live filter preview  
 - Adjustable controls for:
   - Brightness
   - Contrast
