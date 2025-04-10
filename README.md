@@ -2,7 +2,7 @@
 
 This is a simple image filter editor built using **React**. It allows users to apply and adjust various CSS-based filters to an image in real time using sliders.
 
-## 🚀 Features
+## 🚀 Features 
 
 - Live filter preview  
 - Adjustable controls for:
