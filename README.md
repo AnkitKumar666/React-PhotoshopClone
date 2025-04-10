@@ -10,7 +10,7 @@ This is a simple image filter editor built using **React**. It allows users to a
   - Contrast
   - Saturation
   - Grayscale 
-  - Sepia
+  - Sepia 
   - Hue Rotation
   - Blur
 - Clean, minimal sidebar UI for selecting filters
