@@ -7,7 +7,7 @@ This is a simple image filter editor built using **React**. It allows users to a
 - Live filter preview  
 - Adjustable controls for: 
   - Brightness
-  - Contrast
+  - Contrast 
   - Saturation
   - Grayscale 
   - Sepia 
