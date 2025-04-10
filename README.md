@@ -29,7 +29,7 @@ This is a simple image filter editor built using **React**. It allows users to a
 
 ## 🧑‍💻 Getting Started
 
-### 1. Clone the Repository
+### 1. Clone the Repository 
 
 ```bash
 git clone https://github.com/AnkitKumar666/React-PhotoshopClone.git
